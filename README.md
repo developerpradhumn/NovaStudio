@@ -1,9 +1,3 @@
-Perfect 👍 — below is a complete, professional README.txt you can include with the website files.
-It’s written to both explain the template’s features to developers/designers and help you present it to clients in a polished, trustworthy way — describing the design philosophy, capabilities, and how it supports a premium brand image.
-
-⸻
-
-📘 README — NovaStudio Website Template
 
 Project: NovaStudio — Futuristic Creative Agency Template
 Version: 1.0
